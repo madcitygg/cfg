@@ -1,0 +1,230 @@
+"SaveFile"
+{
+        "timestamp"             "2016-02-07 18:31:38"
+        "map"           "de_dust2"
+        "round"         "2"
+        "FirstHalfScore"
+        {
+                "team1"         "0"
+                "team2"         "0"
+        }
+        "History"
+        {
+                "NumConsecutiveCTLoses"         "1"
+                "LoserBonus"            "1400"
+        }
+        "RoundResults"
+        {
+                "round1"                "1"
+                "round2"                "5"
+        }
+        "PlayersAliveT"
+        {
+                "round2"                "1"
+                "round3"                "63"
+                "round4"                "63"
+                "round5"                "63"
+                "round6"                "63"
+                "round7"                "63"
+                "round8"                "63"
+                "round9"                "63"
+                "round10"               "63"
+                "round11"               "63"
+                "round12"               "63"
+                "round13"               "63"
+                "round14"               "63"
+                "round15"               "63"
+                "round16"               "63"
+                "round17"               "63"
+                "round18"               "63"
+                "round19"               "63"
+                "round20"               "63"
+                "round21"               "63"
+                "round22"               "63"
+                "round23"               "63"
+                "round24"               "63"
+                "round25"               "63"
+                "round26"               "63"
+                "round27"               "63"
+                "round28"               "63"
+                "round29"               "63"
+                "round30"               "63"
+        }
+        "PlayersAliveCT"
+        {
+                "round1"                "1"
+                "round3"                "63"
+                "round4"                "63"
+                "round5"                "63"
+                "round6"                "63"
+                "round7"                "63"
+                "round8"                "63"
+                "round9"                "63"
+                "round10"               "63"
+                "round11"               "63"
+                "round12"               "63"
+                "round13"               "63"
+                "round14"               "63"
+                "round15"               "63"
+                "round16"               "63"
+                "round17"               "63"
+                "round18"               "63"
+                "round19"               "63"
+                "round20"               "63"
+                "round21"               "63"
+                "round22"               "63"
+                "round23"               "63"
+                "round24"               "63"
+                "round25"               "63"
+                "round26"               "63"
+                "round27"               "63"
+                "round28"               "63"
+                "round29"               "63"
+                "round30"               "63"
+        }
+        "PlayersOnTeam1"
+        {
+                "148140"
+                {
+                        "name"          "VEGIM"
+                        "kills"         "1"
+                        "assists"               "0"
+                        "deaths"                "1"
+                        "mvps"          "1"
+                        "score"         "2"
+                        "cash"          "16000"
+                        "enemyKs"               "1"
+                        "enemyHSs"              "1"
+                        "enemy3Ks"              "0"
+                        "enemy4Ks"              "0"
+                        "enemy5Ks"              "0"
+                        "enemyKAg"              "1"
+                        "firstKs"               "0"
+                        "clutchKs"              "0"
+                        "kills_weapon_pistol"           "0"
+                        "kills_weapon_sniper"           "0"
+                        "roundsWon"             "1"
+                        "MatchStats"
+                        {
+                                "Kills"
+                                {
+                                        "round1"                "1"
+                                }
+                                "Damage"
+                                {
+                                        "round1"                "100"
+                                        "round2"                "66"
+                                }
+                                "EquipmentValue"
+                                {
+                                        "round1"                "200"
+                                        "round2"                "4700"
+                                }
+                                "MoneySaved"
+                                {
+                                        "round1"                "16000"
+                                        "round2"                "16000"
+                                }
+                                "KillReward"
+                                {
+                                        "round1"                "300"
+                                }
+                                "LiveTime"
+                                {
+                                        "round1"                "24"
+                                        "round3"                "11"
+                                }
+                                "HeadShotKills"
+                                {
+                                        "round1"                "1"
+                                }
+                                "CashEarned"
+                                {
+                                        "round1"                "11800"
+                                        "round2"                "16000"
+                                        "round3"                "16000"
+                                }
+                                "Deaths"
+                                {
+                                        "round2"                "1"
+                                }
+                        }
+                }
+        }
+        "PlayersOnTeam2"
+        {
+                "4359"
+                {
+                        "name"          "boyer"
+                        "kills"         "1"
+                        "assists"               "0"
+                        "deaths"                "1"
+                        "mvps"          "1"
+                        "score"         "2"
+                        "cash"          "15850"
+                        "enemyKs"               "1"
+                        "enemyHSs"              "1"
+                        "enemy3Ks"              "0"
+                        "enemy4Ks"              "0"
+                        "enemy5Ks"              "0"
+                        "enemyKAg"              "1"
+                        "firstKs"               "1"
+                        "clutchKs"              "1"
+                        "kills_weapon_pistol"           "0"
+                        "kills_weapon_sniper"           "0"
+                        "roundsWon"             "2"
+                        "armor"         "85"
+                        "helmet"                "1"
+                        "Items"
+                        {
+                                "item"          "weapon_knife_karambit"
+                                "item"          "weapon_glock"
+                                "item"          "weapon_ak47"
+                                "item"          "weapon_c4"
+                        }
+                        "MatchStats"
+                        {
+                                "EquipmentValue"
+                                {
+                                        "round1"                "3900"
+                                        "round2"                "200"
+                                }
+                                "MoneySaved"
+                                {
+                                        "round1"                "16000"
+                                        "round2"                "16000"
+                                }
+                                "Deaths"
+                                {
+                                        "round1"                "1"
+                                }
+                                "CashEarned"
+                                {
+                                        "round1"                "16000"
+                                        "round2"                "12600"
+                                        "round3"                "15850"
+                                }
+                                "Kills"
+                                {
+                                        "round2"                "1"
+                                }
+                                "Damage"
+                                {
+                                        "round2"                "100"
+                                }
+                                "KillReward"
+                                {
+                                        "round2"                "300"
+                                }
+                                "LiveTime"
+                                {
+                                        "round2"                "19"
+                                }
+                                "HeadShotKills"
+                                {
+                                        "round2"                "1"
+                                }
+                        }
+                }
+        }
+}
